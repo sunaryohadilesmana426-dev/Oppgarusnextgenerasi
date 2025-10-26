@@ -1,0 +1,1 @@
+OPP Garus - Militant theme package. Replace assets/logo.png with official logo if needed. Upload all files to your GitHub repo root.
